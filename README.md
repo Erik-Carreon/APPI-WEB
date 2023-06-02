@@ -1,2 +1,8 @@
-# APPI-WEB
-APLICACION WEB DE LA MATERIA APLICACIONES MOVILES 
+### RN REST API
+
+### Stack & Tools
+* Express
+* MySQL
+* Babel
+* Swagger 
+* Docker
